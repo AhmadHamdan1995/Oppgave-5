@@ -3,9 +3,9 @@
 \# | Oppgave | Leveranse 1 | Leveranse 2 | Leveranse 3
 --- | --- | --- | --- | ---
 1 | AWS Lambda og GitHub Actions | Lambda Endponit https://ga0wooh0i9.execute-api.eu-west-1.amazonaws.com/Prod/hello | GitHub Actions: https://github.com/AhmadHamdan1995/-sam-lambda/actions/runs/11844422654/| -
-2 | Infrastruktur med Terraform of SQS | SQS Queue URL https://ga0wooh0i9.execute-api.eu-west-1.amazonaws.com/Prod/hello | GitHub Actions workflow (master) https://github.com/AhmadHamdan1995/SQS/actions/runs/11861720236/ | GitHub Actions workflow (non-master) https://github.com/AhmadHamdan1995/SQS/actions/runs/11861827040/
+2 | Infrastruktur med Terraform of SQS | SQS Queue URL https://sqs.eu-west-1.amazonaws.com/244530008913/image-processing-queue | GitHub Actions workflow (master) https://github.com/AhmadHamdan1995/SQS/actions/runs/11861720236/ | GitHub Actions workflow (non-master) https://github.com/AhmadHamdan1995/SQS/actions/runs/11861827040/
 3 | Javaklient og Docker | - | - | - 
-4 | Metrics og overvåkning | SQS Queue URL https://ga0wooh0i9.execute-api.eu-west-1.amazonaws.com/Prod/hello | GitHub Actions workflow (master) https://github.com/AhmadHamdan1995/SQS/actions/runs/11865699575 | GitHub Actions workflow (non-master) https://github.com/AhmadHamdan1995/SQS/actions/runs/11865722046
+4 | Metrics og overvåkning | SQS Queue URL https://sqs.eu-west-1.amazonaws.com/244530008913/image-processing-queue | GitHub Actions workflow (master) https://github.com/AhmadHamdan1995/SQS/actions/runs/11865699575 | GitHub Actions workflow (non-master) https://github.com/AhmadHamdan1995/SQS/actions/runs/11865722046
 5 | Drøft; Serverless, Function as a service vs Container-teknologi |  Diskusjon og evaluering
 
 
